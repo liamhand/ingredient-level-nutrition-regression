@@ -1,0 +1,41 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The ingredient-level segmentation annotations in this repository are licensed
+under the Creative Commons Attribution 4.0 International License.
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material for any purpose,
+    even commercially.
+
+Under the following terms:
+  - Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any reasonable
+    manner, but not in any way that suggests the licensor endorses you or your
+    use.
+  - No additional restrictions — You may not apply legal terms or technological
+    measures that legally restrict others from doing anything the license
+    permits.
+
+The full legal text of the CC BY 4.0 license is available at:
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+A human-readable summary is available at:
+  https://creativecommons.org/licenses/by/4.0/
+
+-------------------------------------------------------------------------------
+ATTRIBUTION
+-------------------------------------------------------------------------------
+
+These annotations extend the Nutrition5K dataset. If you use them, please cite:
+
+  [Your paper citation — add authors, title, venue, year, DOI]
+
+and the original Nutrition5K dataset:
+
+  Thames, Q., Karpur, A., Norris, W., Xia, F., Panait, L., Weyand, T., and
+  Sim, J. (2021). Nutrition5k: Towards Automatic Nutritional Understanding of
+  Generic Food. In Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition (CVPR).
+
+The Nutrition5K dataset is itself licensed under CC BY 4.0.
